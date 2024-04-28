@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Super</string>
+    <string name="body_label">Super</string>
+    <string name="game_over_hint">GAME OVER</string>
+    <string name="button_rotate">ROTATE</string>
+    <string name="button_up">▲</string>
+    <string name="button_left">◀</string>
+    <string name="button_right">▶</string>
+    <string name="button_down">▼</string>
+    <string name="button_Play">Play</string>
+    <string name="button_sounds">SOUNDS</string>
+    <string name="button_pause">PAUSE/RESUME</string>
+    <string name="button_reset">START/RESET</string>
+    <string name="play_now"> Play Now </string>
+
+</resources>
